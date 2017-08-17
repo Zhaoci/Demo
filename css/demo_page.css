@@ -225,7 +225,7 @@ ul.timeline li:last-child span {
   font-size: 18px;
   font-weight: 900;
   text-transform: uppercase;
-  margin-top: 45px;
+  margin-top: 40px;
   color: #fff;
 }
 .timeline::before {          /*时间线*/
