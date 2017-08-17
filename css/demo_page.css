@@ -47,7 +47,7 @@ nav div.navbar {
 .navbar a {
   display: inline-block;
   font-size: 30px;
-  color: #fed136;
+  color: #1ac0f4;
 }
 ul.right {
   float: right;
@@ -62,7 +62,7 @@ nav li a {
   line-height: 40px;
 }
 nav li a:hover{
-  color: #fed136;
+  color: #1ac0f4;
 }
 nav {
   position:absolute;
@@ -100,7 +100,7 @@ header div.text_capital {
 .btn {
   display: inline-block;
   padding: 20px 20px;
-  background-color: #fed136;
+  background-color: #1ac0f4;
   font-size: 1em;
   text-transform: uppercase;
   font-weight: 900;
@@ -120,7 +120,7 @@ header div.container {
   display: inline-block;
   width: 110px;
   height: 110px;
-  background: #fed136;
+  background: #1ac0f4;
   border-radius: 50%;
 }
 i.icon-gouwuche,i.icon-diannao,i.icon-suo {
@@ -162,7 +162,7 @@ div.hoverout {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color:rgba(254, 209, 54, .9);
+  background-color:rgba(27, 190, 250, .7);
   display: none;
 }
 div.hoverout > i {
@@ -207,9 +207,9 @@ ul.timeline li .timeline-img {
   width: 150px;
   height: 150px;
   z-index: 100;
-  border: 7px solid #ccc;
+  border: 7px solid #3cebfe;
   border-radius: 100%; 
-  background-color: #fed136;
+  background-color: #1ac0f4;
 }
 .timeline-img img{
   vertical-align: middle;
@@ -232,7 +232,7 @@ ul.timeline li:last-child span {
   position: absolute;
   content: '';
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid #3cebfe;
   top: 0;
   bottom: 0;
 }
@@ -274,7 +274,7 @@ ul.timeline li:last-child span {
   font-size: 20px;
 }
 .follow > li a:hover {
-  background-color: #fed136;
+  background-color: #1ac0f4;
 }
 /*表单部分*/
 #contact {
@@ -326,7 +326,7 @@ footer .copy {
   line-height: 40px;
 }
 .foot-content .moreinfor {
-  color: #fed136;
+  color: #1ac0f4;
   margin-right: 20px;
   line-height: 40px;
 }
