@@ -47,7 +47,7 @@ nav div.navbar {
 .navbar a {
   display: inline-block;
   font-size: 30px;
-  color: #1ac0f4;
+  color: #7ADAF8;
 }
 ul.right {
   float: right;
@@ -62,7 +62,7 @@ nav li a {
   line-height: 40px;
 }
 nav li a:hover{
-  color: #1ac0f4;
+  color: #7ADAF8;
 }
 nav {
   position:absolute;
@@ -100,7 +100,7 @@ header div.text_capital {
 .btn {
   display: inline-block;
   padding: 20px 20px;
-  background-color: #1ac0f4;
+  background-color: #7ADAF8;
   font-size: 1em;
   text-transform: uppercase;
   font-weight: 900;
@@ -120,7 +120,7 @@ header div.container {
   display: inline-block;
   width: 110px;
   height: 110px;
-  background: #1ac0f4;
+  background: #7ADAF8;
   border-radius: 50%;
 }
 i.icon-gouwuche,i.icon-diannao,i.icon-suo {
@@ -207,9 +207,9 @@ ul.timeline li .timeline-img {
   width: 150px;
   height: 150px;
   z-index: 100;
-  border: 7px solid #3cebfe;
+  border: 7px solid #D4F6F9;
   border-radius: 100%; 
-  background-color: #1ac0f4;
+  background-color: #7ADAF8;
 }
 .timeline-img img{
   vertical-align: middle;
@@ -232,7 +232,7 @@ ul.timeline li:last-child span {
   position: absolute;
   content: '';
   display: inline-block;
-  border: 1px solid #3cebfe;
+  border: 1px solid #D4F6F9;
   top: 0;
   bottom: 0;
 }
