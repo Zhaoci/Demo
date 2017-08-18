@@ -45,15 +45,15 @@ section h2 {
   text-align: center;
 }
 /*导航栏*/
-nav div.navbar {
+nav div.logo {
   float: left;
 }
-.navbar a {
+.logo a {
   display: inline-block;
   font-size: 30px;
   color: #7ADAF8;
 }
-ul.right {
+ul.navigation {
   float: right;
 }
 nav ul>li {
