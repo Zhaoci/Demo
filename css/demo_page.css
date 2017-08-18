@@ -111,7 +111,7 @@ header div.text_capital {
 header div.container {
   padding: 230px 0;
 }
-/*section1*/
+/*section#services*/
 #services  .box .part {
   float: left;
   width: 33.333%;
@@ -133,7 +133,7 @@ i.icon-gouwuche,i.icon-diannao,i.icon-suo {
 #services h4 {
   margin: 10px 0;
 }
-/*section2*/
+/*section#stills*/
 #stills {
   background-color: #f7f7f7;
 }
@@ -158,7 +158,7 @@ div.stills-item>a {
   position: relative;
   display: block;
 }
-div.hoverout {
+div.hover-out {
   position: absolute;
   top: 0;
   right: 0;
@@ -167,7 +167,7 @@ div.hoverout {
   background-color:rgba(27, 190, 250, .7);
   display: none;
 }
-div.hoverout > i {
+div.hover-out > i {
   position: absolute;
   display: inline-block;
   font-size: 40px;
@@ -176,10 +176,10 @@ div.hoverout > i {
   margin-left: -20px;
   margin-top: -22px;
 }
-div.stills-item>a:hover .hoverout {
+div.stills-item>a:hover .hover-out {
   display: block;
 }
-/*section3*/
+/*section#about*/
 ul.timeline {
   position: relative;
 }
@@ -205,7 +205,8 @@ ul.timeline li:nth-child(even) .timeline-text { /*选中偶数行*/
 }
 ul.timeline li .timeline-img {
   position: absolute;
-  margin-left: 415px;
+  left: 50%;
+  margin-left: -75px;
   width: 150px;
   height: 150px;
   z-index: 100;
@@ -233,12 +234,11 @@ ul.timeline li:last-child span {
 .timeline::before {          /*时间线*/
   position: absolute;
   content: '';
-  display: inline-block;
   border: 1px solid #D4F6F9;
   top: 0;
   bottom: 0;
 }
-/*section4*/
+/*section#starring*/
 #starring {
   background-color: #f7f7f7;
 }
@@ -327,7 +327,7 @@ footer .foot-content {
 footer .copy {
   line-height: 40px;
 }
-.foot-content .moreinfor {
+.foot-content .more-infor {
   color: #1ac0f4;
   margin-right: 20px;
   line-height: 40px;
